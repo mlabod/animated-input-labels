@@ -1,2 +1,2 @@
-css:
-	stylus stylus.styl
+styles:
+	stylus styles.styl
